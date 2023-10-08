@@ -19,3 +19,10 @@ individual is placed does not seem to be relevant and, in addition to this, it w
 promptness in taking actions is crucial to prevent a pandemic from spreading.
 
 [Here you can find the full report](https://github.com/Riclaw/Simulation-Project/blob/main/Group_4_report_d'Imporzano_Peano_Rossi_Valdo.pdf)
+
+| Author             | Contact                       
+| ----------------   | ------------------------------
+| Riccardo Valdo     | riccardo.valdo@studbocconi.it         
+| Lorenzo d'Imporzano | lorenzo.dimporzano@studbocconi.it 
+| Elena Rossi | elena.r@studbocconi.it 
+| Federico Peano | federico.peano@studbocconi.it
