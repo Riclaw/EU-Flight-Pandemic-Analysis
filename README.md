@@ -1,4 +1,4 @@
-# EXPLORING EFFECTIVE STRATEGIES: AN ANALYSIS OF EUROPEAN AVIATION NETWORK AND RESTRICTIVE MEASURES TO CONTROL PANDEMIC OUTBREAKS
+s# EXPLORING EFFECTIVE STRATEGIES: AN ANALYSIS OF EUROPEAN AVIATION NETWORK AND RESTRICTIVE MEASURES TO CONTROL PANDEMIC OUTBREAKS
 
 
 ### Abstract
@@ -21,7 +21,7 @@ The study uses a SEIR model combined with an Agent-Based Model (ABM) framework, 
 ### Conclusions
 The study confirms that stricter containment measures have a greater positive impact on controlling epidemics. Full lockdown is the most effective, though economically and socially challenging. Quarantine for symptomatic individuals can be a viable alternative with a lower infectivity rate. The closure of individual airports shows limited impact due to the high interconnectivity of the European aviation network. Prompt action is essential for effective epidemic control.
 
-### Intervention Results:
+### Interventions Results:
 
 ![results](/images/results.png)
 
